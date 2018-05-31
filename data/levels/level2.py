@@ -1,0 +1,28 @@
+level = [
+		"PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                           Z                             Z                     P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P  S                                                                            P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"P                                                                               P",
+		"PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP", ]
+
+name = 'Level 2 - The Suburbs'
